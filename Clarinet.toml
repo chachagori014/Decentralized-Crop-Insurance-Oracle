@@ -9,10 +9,6 @@ requirements = []
 path = 'contracts/Cropguard.clar'
 clarity_version = 3
 epoch = 3.1
-[contracts.RiskAssessment]
-path = 'contracts/RiskAssessment.clar'
-clarity_version = 3
-epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
